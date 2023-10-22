@@ -1,3 +1,6 @@
+
+you can calculate your body mass index and apart from this you will also get a message about how much weight you have to gain or lose weight
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
