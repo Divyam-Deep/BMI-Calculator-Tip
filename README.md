@@ -1,3 +1,5 @@
+Link- https://bmi-calculator-tip-by-divyam-deep.netlify.app/
+
 
 you can calculate your body mass index and apart from this you will also get a message about how much weight you have to gain or lose weight
 
